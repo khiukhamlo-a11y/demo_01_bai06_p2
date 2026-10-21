@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "275790668197",
+    "firebase_url": "https://du-an-firebase-qs-default-rtdb.firebaseio.com",
+    "project_id": "du-an-firebase-qs",
+    "storage_bucket": "du-an-firebase-qs.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275790668197:android:82fe52cde2739c3450084c",
+        "android_client_info": {
+          "package_name": "com.example.demo_123"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQqPp3rI5L7y48IRhm-OilpNUnozxvbtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
